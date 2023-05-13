@@ -98,3 +98,4 @@ f.set_size_inches(7, 4)     # size
 f.set_facecolor('#eee')     # color
 ax.plot(np.arange(0, 5, 0.2))
 plt.show()
+
